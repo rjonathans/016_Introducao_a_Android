@@ -24,8 +24,11 @@
         android:layout_margin="16dp"
         android:hint="@string/nome"/>
     <TextView
+        android:layout_gravity="center"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:text="@string/TextopadraoOla"
+        android:id="@+id/teladeOlamundo"/>
 
     <Button
         android:id="@+id/botao_main"
