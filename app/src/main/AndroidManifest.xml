@@ -9,10 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity
-            android:name=".LinearLayout"
-            android:label="@string/title_activity_linear_layout"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity android:name=".LoginTelaActivity"></activity>
+        <activity android:name=".ConstraintLayoutActivity" />
+        <activity android:name=".RelativeLayoutActivity" />
+        <activity android:name=".FrameLayoutActivity" />
+        <activity android:name=".Linear_layout_usando_peso_weight" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -3,4 +3,7 @@
     <string name="TextopadraoOla">Olá Mundo!</string>
     <string name="nome">Digite seu nome</string>
     <string name="title_activity_linear_layout">LinearLayout</string>
+    <string name="textobotao1">FRAME LAYOUT</string>
+    <string name="textobotao2">RELATIVE LAYOUT</string>
+    <string name="enviar">Enviar</string>
 </resources>
